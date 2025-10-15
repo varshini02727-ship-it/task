@@ -1,0 +1,1026 @@
+INFO 2025-09-23 04:36:49,085 autoreload Watching for file changes with StatReloader
+INFO 2025-09-23 04:36:51,732 autoreload /home/varshini_rh/grade_management_system/backend/grade_project/settings.py changed, reloading.
+INFO 2025-09-23 04:36:52,298 autoreload Watching for file changes with StatReloader
+INFO 2025-09-23 04:38:19,688 autoreload /home/varshini_rh/grade_management_system/backend/api/views.py changed, reloading.
+INFO 2025-09-23 04:38:20,212 autoreload Watching for file changes with StatReloader
+INFO 2025-09-23 04:39:43,536 autoreload /home/varshini_rh/grade_management_system/backend/api/views.py changed, reloading.
+INFO 2025-09-23 04:39:44,071 autoreload Watching for file changes with StatReloader
+INFO 2025-09-23 04:42:33,725 autoreload /home/varshini_rh/grade_management_system/backend/api/views.py changed, reloading.
+INFO 2025-09-23 04:42:34,256 autoreload Watching for file changes with StatReloader
+INFO 2025-09-23 04:43:05,965 autoreload /home/varshini_rh/grade_management_system/backend/api/views.py changed, reloading.
+INFO 2025-09-23 04:43:06,486 autoreload Watching for file changes with StatReloader
+INFO 2025-09-23 04:43:45,503 autoreload Watching for file changes with StatReloader
+INFO 2025-09-23 04:47:45,230 autoreload /home/varshini_rh/grade_management_system/backend/grade_project/settings.py changed, reloading.
+INFO 2025-09-23 04:47:45,789 autoreload Watching for file changes with StatReloader
+INFO 2025-09-23 04:53:19,481 autoreload Watching for file changes with StatReloader
+WARNING 2025-09-23 04:53:29,497 log Not Found: /
+WARNING 2025-09-23 04:53:29,498 basehttp "GET / HTTP/1.1" 404 2311
+WARNING 2025-09-23 04:53:32,112 log Not Found: /
+WARNING 2025-09-23 04:53:32,112 basehttp "GET / HTTP/1.1" 404 2311
+INFO 2025-09-23 04:53:34,627 basehttp "OPTIONS /api/login/ HTTP/1.1" 200 0
+WARNING 2025-09-23 04:53:34,635 log Not Found: /api/login/
+WARNING 2025-09-23 04:53:34,636 basehttp "POST /api/login/ HTTP/1.1" 404 7511
+WARNING 2025-09-23 04:53:37,735 log Not Found: /api/login/
+WARNING 2025-09-23 04:53:37,735 basehttp "POST /api/login/ HTTP/1.1" 404 7511
+INFO 2025-09-23 04:57:40,797 autoreload Watching for file changes with StatReloader
+WARNING 2025-09-23 04:57:53,584 log Not Found: /
+WARNING 2025-09-23 04:57:53,585 basehttp "GET / HTTP/1.1" 404 2311
+WARNING 2025-09-23 04:58:00,876 log Not Found: /api/login/
+WARNING 2025-09-23 04:58:00,877 basehttp "POST /api/login/ HTTP/1.1" 404 7511
+INFO 2025-09-23 05:01:04,015 autoreload /home/varshini_rh/grade_management_system/backend/grade_project/settings.py changed, reloading.
+INFO 2025-09-23 05:39:26,234 autoreload Watching for file changes with StatReloader
+INFO 2025-09-23 05:40:08,520 autoreload /home/varshini_rh/grade_management_system/backend/api/views.py changed, reloading.
+INFO 2025-09-23 05:40:09,090 autoreload Watching for file changes with StatReloader
+INFO 2025-09-23 05:40:41,846 autoreload /home/varshini_rh/grade_management_system/backend/api/views.py changed, reloading.
+INFO 2025-09-23 05:40:42,407 autoreload Watching for file changes with StatReloader
+INFO 2025-09-23 05:41:20,350 autoreload /home/varshini_rh/grade_management_system/backend/api/views.py changed, reloading.
+INFO 2025-09-23 05:41:20,867 autoreload Watching for file changes with StatReloader
+INFO 2025-09-23 05:41:29,921 autoreload /home/varshini_rh/grade_management_system/backend/api/views.py changed, reloading.
+INFO 2025-09-23 05:41:30,439 autoreload Watching for file changes with StatReloader
+WARNING 2025-09-23 05:44:59,413 log Not Found: /
+WARNING 2025-09-23 05:44:59,415 basehttp "GET / HTTP/1.1" 404 2311
+INFO 2025-09-23 05:54:03,895 basehttp "GET /api/student/report/ HTTP/1.1" 200 282
+INFO 2025-09-23 05:54:03,904 basehttp "GET /api/student/report/ HTTP/1.1" 200 282
+INFO 2025-09-23 05:54:06,753 basehttp "GET /api/student/report/ HTTP/1.1" 200 282
+INFO 2025-09-23 05:54:06,766 basehttp "GET /api/student/report/ HTTP/1.1" 200 282
+INFO 2025-09-23 06:07:31,122 basehttp "GET /api/student/report/ HTTP/1.1" 200 282
+INFO 2025-09-23 06:07:31,133 basehttp "GET /api/student/report/ HTTP/1.1" 200 282
+INFO 2025-09-23 06:07:33,223 basehttp "GET /api/student/report/ HTTP/1.1" 200 282
+INFO 2025-09-23 06:07:33,234 basehttp "GET /api/student/report/ HTTP/1.1" 200 282
+INFO 2025-09-23 06:07:35,408 basehttp "GET /api/student/report/ HTTP/1.1" 200 282
+INFO 2025-09-23 06:07:35,423 basehttp "GET /api/student/report/ HTTP/1.1" 200 282
+INFO 2025-09-23 06:07:36,238 basehttp "GET /api/student/report/ HTTP/1.1" 200 282
+INFO 2025-09-23 06:07:36,247 basehttp "GET /api/student/report/ HTTP/1.1" 200 282
+INFO 2025-09-23 06:07:43,031 views User 'Karna' logged in successfully.
+INFO 2025-09-23 06:07:43,032 basehttp "POST /api/login/ HTTP/1.1" 200 104
+INFO 2025-09-23 06:07:43,056 basehttp "GET /api/student/report/ HTTP/1.1" 200 282
+INFO 2025-09-23 06:07:43,067 basehttp "GET /api/student/report/ HTTP/1.1" 200 282
+INFO 2025-09-23 06:25:21,952 basehttp "OPTIONS /api/student/report/download/ HTTP/1.1" 200 0
+INFO 2025-09-23 06:25:22,220 basehttp "GET /api/student/report/download/ HTTP/1.1" 200 8548
+INFO 2025-09-23 06:25:26,072 basehttp "GET /api/student/report/ HTTP/1.1" 200 282
+INFO 2025-09-23 06:25:26,082 basehttp "GET /api/student/report/ HTTP/1.1" 200 282
+INFO 2025-09-23 06:25:44,382 basehttp "GET /api/student/report/ HTTP/1.1" 200 282
+INFO 2025-09-23 06:25:44,394 basehttp "GET /api/student/report/ HTTP/1.1" 200 282
+INFO 2025-09-23 06:26:10,540 views User 'varshini_rh' logged in successfully.
+INFO 2025-09-23 06:26:10,541 basehttp "POST /api/login/ HTTP/1.1" 200 108
+INFO 2025-09-23 06:26:10,590 basehttp "GET /api/users/ HTTP/1.1" 200 724
+INFO 2025-09-23 06:26:10,594 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 06:26:10,600 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 06:26:10,613 basehttp "GET /api/users/ HTTP/1.1" 200 724
+INFO 2025-09-23 06:26:10,614 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 06:26:10,618 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 06:26:48,420 basehttp "POST /api/users/ HTTP/1.1" 201 86
+INFO 2025-09-23 06:26:50,529 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 06:27:23,314 views User 'Pavan' logged in successfully.
+INFO 2025-09-23 06:27:23,315 basehttp "POST /api/login/ HTTP/1.1" 200 104
+INFO 2025-09-23 06:27:23,335 basehttp "GET /api/student/report/ HTTP/1.1" 200 53
+INFO 2025-09-23 06:27:23,343 basehttp "GET /api/student/report/ HTTP/1.1" 200 53
+INFO 2025-09-23 06:33:23,178 autoreload /home/varshini_rh/grade_management_system/backend/grade_project/settings.py changed, reloading.
+INFO 2025-09-23 06:33:23,738 autoreload Watching for file changes with StatReloader
+INFO 2025-09-23 06:34:00,673 autoreload /home/varshini_rh/grade_management_system/backend/grade_project/settings.py changed, reloading.
+INFO 2025-09-23 06:34:01,195 autoreload Watching for file changes with StatReloader
+INFO 2025-09-23 06:34:43,423 autoreload /home/varshini_rh/grade_management_system/backend/grade_project/settings.py changed, reloading.
+INFO 2025-09-23 06:34:43,966 autoreload Watching for file changes with StatReloader
+INFO 2025-09-23 06:35:12,354 autoreload /home/varshini_rh/grade_management_system/backend/grade_project/settings.py changed, reloading.
+INFO 2025-09-23 06:35:12,885 autoreload Watching for file changes with StatReloader
+INFO 2025-09-23 06:36:13,727 autoreload /home/varshini_rh/grade_management_system/backend/api/views.py changed, reloading.
+INFO 2025-09-23 06:36:14,280 autoreload Watching for file changes with StatReloader
+INFO 2025-09-23 06:36:45,960 autoreload /home/varshini_rh/grade_management_system/backend/api/views.py changed, reloading.
+INFO 2025-09-23 06:36:46,506 autoreload Watching for file changes with StatReloader
+INFO 2025-09-23 06:36:53,413 autoreload /home/varshini_rh/grade_management_system/backend/api/views.py changed, reloading.
+INFO 2025-09-23 06:36:53,926 autoreload Watching for file changes with StatReloader
+INFO 2025-09-23 06:37:37,379 autoreload Watching for file changes with StatReloader
+WARNING 2025-09-23 06:37:49,686 log Not Found: /
+WARNING 2025-09-23 06:37:49,688 basehttp "GET / HTTP/1.1" 404 2311
+INFO 2025-09-23 06:37:54,654 basehttp "GET /api/student/report/ HTTP/1.1" 200 53
+INFO 2025-09-23 06:37:54,660 basehttp "GET /api/student/report/ HTTP/1.1" 200 53
+INFO 2025-09-23 06:38:01,807 views User 'varshini_rh' logged in successfully.
+INFO 2025-09-23 06:38:01,808 basehttp "POST /api/login/ HTTP/1.1" 200 108
+INFO 2025-09-23 06:38:01,853 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 06:38:01,853 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 06:38:01,856 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 06:38:01,867 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 06:38:01,871 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 06:38:01,872 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 06:38:12,497 views User 'Pavan' logged in successfully.
+INFO 2025-09-23 06:38:12,498 basehttp "POST /api/login/ HTTP/1.1" 200 104
+INFO 2025-09-23 06:38:12,518 basehttp "GET /api/student/report/ HTTP/1.1" 200 53
+INFO 2025-09-23 06:38:12,524 basehttp "GET /api/student/report/ HTTP/1.1" 200 53
+INFO 2025-09-23 06:38:23,746 views User 'Karna' logged in successfully.
+INFO 2025-09-23 06:38:23,747 basehttp "POST /api/login/ HTTP/1.1" 200 104
+INFO 2025-09-23 06:38:23,769 basehttp "GET /api/student/report/ HTTP/1.1" 200 282
+INFO 2025-09-23 06:38:23,778 basehttp "GET /api/student/report/ HTTP/1.1" 200 282
+INFO 2025-09-23 06:38:26,616 basehttp "GET /api/student/report/download/ HTTP/1.1" 200 8546
+INFO 2025-09-23 07:04:55,266 basehttp "OPTIONS /api/login/ HTTP/1.1" 200 0
+INFO 2025-09-23 07:04:55,857 views User 'Mouna' logged in successfully.
+INFO 2025-09-23 07:04:55,858 basehttp "POST /api/login/ HTTP/1.1" 200 104
+INFO 2025-09-23 07:04:55,899 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 188
+INFO 2025-09-23 07:04:55,902 basehttp "GET /api/subjects/ HTTP/1.1" 200 40
+INFO 2025-09-23 07:04:55,902 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-23 07:04:55,918 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 188
+INFO 2025-09-23 07:04:55,920 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-23 07:04:55,921 basehttp "GET /api/subjects/ HTTP/1.1" 200 40
+ERROR 2025-09-23 07:05:25,017 log Internal Server Error: /api/marks/
+Traceback (most recent call last):
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 17, in create
+    serializer = self.get_serializer(data=request.data)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/generics.py", line 112, in get_serializer
+    serializer_class = self.get_serializer_class()
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/generics.py", line 126, in get_serializer_class
+    assert self.serializer_class is not None, (
+AssertionError: 'MarkViewSet' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+ERROR 2025-09-23 07:05:25,028 basehttp "POST /api/marks/ HTTP/1.1" 500 99979
+ERROR 2025-09-23 07:05:38,406 log Internal Server Error: /api/marks/
+Traceback (most recent call last):
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 17, in create
+    serializer = self.get_serializer(data=request.data)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/generics.py", line 112, in get_serializer
+    serializer_class = self.get_serializer_class()
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/generics.py", line 126, in get_serializer_class
+    assert self.serializer_class is not None, (
+AssertionError: 'MarkViewSet' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+ERROR 2025-09-23 07:05:38,418 basehttp "POST /api/marks/ HTTP/1.1" 500 99979
+INFO 2025-09-23 07:05:49,083 views User 'Pavan' logged in successfully.
+INFO 2025-09-23 07:05:49,084 basehttp "POST /api/login/ HTTP/1.1" 200 104
+INFO 2025-09-23 07:05:49,106 basehttp "GET /api/student/report/ HTTP/1.1" 200 53
+INFO 2025-09-23 07:05:49,112 basehttp "GET /api/student/report/ HTTP/1.1" 200 53
+INFO 2025-09-23 07:05:59,693 views User 'Mouna' logged in successfully.
+INFO 2025-09-23 07:05:59,694 basehttp "POST /api/login/ HTTP/1.1" 200 104
+INFO 2025-09-23 07:05:59,732 basehttp "GET /api/subjects/ HTTP/1.1" 200 40
+INFO 2025-09-23 07:05:59,733 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-23 07:05:59,733 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 188
+INFO 2025-09-23 07:05:59,751 basehttp "GET /api/subjects/ HTTP/1.1" 200 40
+INFO 2025-09-23 07:05:59,751 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-23 07:05:59,751 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 188
+INFO 2025-09-23 07:06:02,553 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 188
+INFO 2025-09-23 07:06:02,556 basehttp "GET /api/subjects/ HTTP/1.1" 200 40
+INFO 2025-09-23 07:06:02,557 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-23 07:06:02,573 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 188
+INFO 2025-09-23 07:06:02,576 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-23 07:06:02,577 basehttp "GET /api/subjects/ HTTP/1.1" 200 40
+ERROR 2025-09-23 07:06:10,422 log Internal Server Error: /api/marks/
+Traceback (most recent call last):
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 17, in create
+    serializer = self.get_serializer(data=request.data)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/generics.py", line 112, in get_serializer
+    serializer_class = self.get_serializer_class()
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/generics.py", line 126, in get_serializer_class
+    assert self.serializer_class is not None, (
+AssertionError: 'MarkViewSet' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+ERROR 2025-09-23 07:06:10,433 basehttp "POST /api/marks/ HTTP/1.1" 500 99979
+INFO 2025-09-23 07:12:34,929 autoreload /home/varshini_rh/grade_management_system/backend/api/views.py changed, reloading.
+INFO 2025-09-23 07:12:35,509 autoreload Watching for file changes with StatReloader
+INFO 2025-09-23 07:14:31,725 basehttp "GET /api/subjects/ HTTP/1.1" 200 40
+INFO 2025-09-23 07:14:31,726 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-23 07:14:31,729 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 188
+INFO 2025-09-23 07:14:31,740 basehttp "GET /api/subjects/ HTTP/1.1" 200 40
+INFO 2025-09-23 07:14:31,744 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-23 07:14:31,744 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 188
+INFO 2025-09-23 07:14:38,365 basehttp "POST /api/marks/ HTTP/1.1" 201 58
+INFO 2025-09-23 07:15:01,106 views User 'Devika' logged in successfully.
+INFO 2025-09-23 07:15:01,107 basehttp "POST /api/login/ HTTP/1.1" 200 105
+INFO 2025-09-23 07:15:01,140 basehttp "GET /api/subjects/ HTTP/1.1" 200 39
+INFO 2025-09-23 07:15:01,140 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 188
+INFO 2025-09-23 07:15:01,148 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-23 07:15:01,156 basehttp "GET /api/subjects/ HTTP/1.1" 200 39
+INFO 2025-09-23 07:15:01,156 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 188
+INFO 2025-09-23 07:15:01,161 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-23 07:15:13,236 basehttp "POST /api/marks/ HTTP/1.1" 201 58
+INFO 2025-09-23 07:15:22,240 views User 'Raksha' logged in successfully.
+INFO 2025-09-23 07:15:22,241 basehttp "POST /api/login/ HTTP/1.1" 200 105
+INFO 2025-09-23 07:15:22,274 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-23 07:15:22,274 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 188
+INFO 2025-09-23 07:15:22,276 basehttp "GET /api/subjects/ HTTP/1.1" 200 39
+INFO 2025-09-23 07:15:22,292 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-23 07:15:22,295 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 188
+INFO 2025-09-23 07:15:22,296 basehttp "GET /api/subjects/ HTTP/1.1" 200 39
+INFO 2025-09-23 07:15:36,871 basehttp "POST /api/marks/ HTTP/1.1" 201 58
+INFO 2025-09-23 07:15:44,998 views User 'Abhilash' logged in successfully.
+INFO 2025-09-23 07:15:44,999 basehttp "POST /api/login/ HTTP/1.1" 200 107
+INFO 2025-09-23 07:15:45,030 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 176
+INFO 2025-09-23 07:15:45,030 basehttp "GET /api/subjects/ HTTP/1.1" 200 39
+INFO 2025-09-23 07:15:45,030 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-23 07:15:45,045 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-23 07:15:45,046 basehttp "GET /api/subjects/ HTTP/1.1" 200 39
+INFO 2025-09-23 07:15:45,047 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 176
+INFO 2025-09-23 07:15:56,598 basehttp "POST /api/marks/ HTTP/1.1" 201 58
+INFO 2025-09-23 07:16:06,547 views User 'Pavan' logged in successfully.
+INFO 2025-09-23 07:16:06,548 basehttp "POST /api/login/ HTTP/1.1" 200 104
+INFO 2025-09-23 07:16:06,570 basehttp "GET /api/student/report/ HTTP/1.1" 200 281
+INFO 2025-09-23 07:16:06,580 basehttp "GET /api/student/report/ HTTP/1.1" 200 281
+WARNING 2025-09-23 07:16:32,954 log Not Found: /
+WARNING 2025-09-23 07:16:32,955 basehttp "GET / HTTP/1.1" 404 2311
+INFO 2025-09-23 07:16:40,093 views User 'varshini_rh' logged in successfully.
+INFO 2025-09-23 07:16:40,094 basehttp "POST /api/login/ HTTP/1.1" 200 108
+INFO 2025-09-23 07:16:40,137 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 07:16:40,140 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 07:16:40,149 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 07:16:40,158 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 07:16:40,163 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 07:16:40,169 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 07:16:49,986 basehttp "GET /admin/api/subject/ HTTP/1.1" 200 12261
+INFO 2025-09-23 07:16:50,004 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-09-23 07:16:52,776 basehttp "GET /admin/api/mark/ HTTP/1.1" 200 18744
+INFO 2025-09-23 07:16:52,796 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-09-23 07:16:59,912 basehttp "GET /admin/api/mark/ HTTP/1.1" 200 18744
+INFO 2025-09-23 07:16:59,928 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-09-23 07:17:04,917 basehttp "GET /admin/api/mark/add/ HTTP/1.1" 200 13880
+INFO 2025-09-23 07:17:04,935 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-09-23 07:17:12,591 basehttp "GET /admin/api/mark/ HTTP/1.1" 200 18744
+INFO 2025-09-23 07:17:14,998 basehttp "GET /admin/api/mark/ HTTP/1.1" 200 18744
+INFO 2025-09-23 07:17:15,016 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-09-23 07:21:18,174 autoreload /home/varshini_rh/grade_management_system/backend/api/views.py changed, reloading.
+INFO 2025-09-23 07:21:18,759 autoreload Watching for file changes with StatReloader
+INFO 2025-09-23 07:21:57,548 basehttp "OPTIONS /api/users/?role=TEACHER HTTP/1.1" 200 0
+INFO 2025-09-23 07:21:57,549 basehttp "OPTIONS /api/subjects/ HTTP/1.1" 200 0
+INFO 2025-09-23 07:21:57,549 basehttp "OPTIONS /api/users/ HTTP/1.1" 200 0
+INFO 2025-09-23 07:21:57,549 basehttp "OPTIONS /api/users/ HTTP/1.1" 200 0
+INFO 2025-09-23 07:21:57,549 basehttp "OPTIONS /api/subjects/ HTTP/1.1" 200 0
+INFO 2025-09-23 07:21:57,550 basehttp "OPTIONS /api/users/?role=TEACHER HTTP/1.1" 200 0
+INFO 2025-09-23 07:21:57,573 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 07:21:57,576 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 07:21:57,577 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 07:21:57,586 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 07:21:57,595 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 07:21:57,595 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 07:49:13,639 views User 'varshini_rh' logged in successfully.
+INFO 2025-09-23 07:49:13,640 basehttp "POST /api/login/ HTTP/1.1" 200 108
+INFO 2025-09-23 07:49:13,679 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 07:49:13,682 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 07:49:13,683 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 07:49:13,693 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 07:49:13,697 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 07:49:13,701 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 07:49:23,995 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 07:49:23,999 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 07:49:24,003 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 07:49:24,013 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 07:49:24,016 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 07:49:24,020 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 07:49:27,482 views User 'varshini_rh' logged in successfully.
+INFO 2025-09-23 07:49:27,483 basehttp "POST /api/login/ HTTP/1.1" 200 108
+INFO 2025-09-23 07:49:27,519 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 07:49:27,519 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 07:49:27,519 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 07:49:27,531 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 07:49:27,536 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 07:49:27,536 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 08:09:17,357 views User 'varshini_rh' logged in successfully.
+INFO 2025-09-23 08:09:17,358 basehttp "POST /api/login/ HTTP/1.1" 200 108
+INFO 2025-09-23 08:09:17,430 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 08:09:17,441 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 08:09:17,442 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 08:09:17,459 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 08:09:17,464 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 08:09:17,464 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 08:13:46,901 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 08:13:46,901 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 08:13:46,905 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 08:13:46,922 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 08:13:46,927 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 08:13:46,928 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 08:13:48,346 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 08:13:48,349 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 08:13:48,354 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 08:13:48,369 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 08:13:48,369 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 08:13:48,373 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 08:13:49,591 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 08:13:49,591 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 08:13:49,591 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 08:13:49,614 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 08:13:49,614 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 08:13:49,615 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 08:13:56,212 views User 'varshini_rh' logged in successfully.
+INFO 2025-09-23 08:13:56,213 basehttp "POST /api/login/ HTTP/1.1" 200 108
+INFO 2025-09-23 08:13:56,248 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 08:13:56,250 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 08:13:56,256 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 08:13:56,267 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 08:13:56,269 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 08:13:56,272 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 08:18:24,764 views User 'varshini_rh' logged in successfully.
+INFO 2025-09-23 08:18:24,766 basehttp "POST /api/login/ HTTP/1.1" 200 108
+INFO 2025-09-23 08:18:24,810 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 08:18:24,812 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 08:18:24,812 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 08:18:24,826 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 08:18:24,826 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 08:18:24,826 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 08:20:16,447 views User 'varshini_rh' logged in successfully.
+INFO 2025-09-23 08:20:16,449 basehttp "POST /api/login/ HTTP/1.1" 200 108
+INFO 2025-09-23 08:20:16,488 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 08:20:16,491 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 08:20:16,492 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 08:20:16,509 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 08:20:16,510 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 08:20:16,513 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 08:26:05,505 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 08:26:05,505 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 08:26:05,509 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 08:26:05,521 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 08:26:05,527 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 08:26:05,531 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 08:26:10,305 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 08:26:10,309 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 08:26:10,319 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 08:26:10,336 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 08:26:10,338 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 08:26:10,343 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 08:26:21,768 views User 'Karna' logged in successfully.
+INFO 2025-09-23 08:26:21,769 basehttp "POST /api/login/ HTTP/1.1" 200 104
+INFO 2025-09-23 08:26:21,786 basehttp "OPTIONS /api/student/report/ HTTP/1.1" 200 0
+INFO 2025-09-23 08:26:21,786 basehttp "OPTIONS /api/student/report/ HTTP/1.1" 200 0
+INFO 2025-09-23 08:26:21,800 basehttp "GET /api/student/report/ HTTP/1.1" 200 282
+INFO 2025-09-23 08:26:21,809 basehttp "GET /api/student/report/ HTTP/1.1" 200 282
+INFO 2025-09-23 08:26:26,921 basehttp "GET /api/student/report/ HTTP/1.1" 200 282
+INFO 2025-09-23 08:26:26,935 basehttp "GET /api/student/report/ HTTP/1.1" 200 282
+INFO 2025-09-23 08:26:37,634 views User 'Karna' logged in successfully.
+INFO 2025-09-23 08:26:37,635 basehttp "POST /api/login/ HTTP/1.1" 200 104
+INFO 2025-09-23 08:26:37,693 basehttp "GET /api/student/report/ HTTP/1.1" 200 282
+INFO 2025-09-23 08:26:37,708 basehttp "GET /api/student/report/ HTTP/1.1" 200 282
+INFO 2025-09-23 08:27:23,808 views User 'varshini_rh' logged in successfully.
+INFO 2025-09-23 08:27:23,809 basehttp "POST /api/login/ HTTP/1.1" 200 108
+INFO 2025-09-23 08:27:23,851 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 08:27:23,853 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 08:27:23,854 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 08:27:23,865 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 08:27:23,865 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 08:27:23,871 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 08:28:00,137 views User 'varshini_rh' logged in successfully.
+INFO 2025-09-23 08:28:00,138 basehttp "POST /api/login/ HTTP/1.1" 200 108
+INFO 2025-09-23 08:28:00,182 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 08:28:00,182 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 08:28:00,182 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 08:28:00,199 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 08:28:00,199 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 08:28:00,199 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 08:30:28,356 autoreload Watching for file changes with StatReloader
+WARNING 2025-09-23 08:30:33,918 log Not Found: /
+WARNING 2025-09-23 08:30:33,919 basehttp "GET / HTTP/1.1" 404 2311
+INFO 2025-09-23 08:30:37,789 views User 'varshini_rh' logged in successfully.
+INFO 2025-09-23 08:30:37,790 basehttp "POST /api/login/ HTTP/1.1" 200 108
+INFO 2025-09-23 08:30:37,834 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 08:30:37,840 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 08:30:37,843 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 08:30:37,858 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 08:30:37,858 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 08:30:37,861 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 08:31:16,027 autoreload Watching for file changes with StatReloader
+INFO 2025-09-23 08:33:27,972 views User 'Karna' logged in successfully.
+INFO 2025-09-23 08:33:27,973 basehttp "POST /api/login/ HTTP/1.1" 200 104
+INFO 2025-09-23 08:33:28,004 basehttp "GET /api/student/report/ HTTP/1.1" 200 282
+INFO 2025-09-23 08:33:28,017 basehttp "GET /api/student/report/ HTTP/1.1" 200 282
+INFO 2025-09-23 08:33:38,977 views User 'Raksha' logged in successfully.
+INFO 2025-09-23 08:33:38,978 basehttp "POST /api/login/ HTTP/1.1" 200 105
+INFO 2025-09-23 08:33:39,006 basehttp "OPTIONS /api/users/?role=STUDENT HTTP/1.1" 200 0
+INFO 2025-09-23 08:33:39,014 basehttp "OPTIONS /api/analytics/class/ HTTP/1.1" 200 0
+INFO 2025-09-23 08:33:39,017 basehttp "OPTIONS /api/users/?role=STUDENT HTTP/1.1" 200 0
+INFO 2025-09-23 08:33:39,018 basehttp "OPTIONS /api/analytics/class/ HTTP/1.1" 200 0
+INFO 2025-09-23 08:33:39,031 basehttp "GET /api/subjects/ HTTP/1.1" 200 39
+INFO 2025-09-23 08:33:39,031 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-23 08:33:39,033 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 164
+INFO 2025-09-23 08:33:39,040 basehttp "GET /api/subjects/ HTTP/1.1" 200 39
+INFO 2025-09-23 08:33:39,046 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-23 08:33:39,046 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 164
+INFO 2025-09-23 08:33:49,901 basehttp "OPTIONS /api/marks/ HTTP/1.1" 200 0
+WARNING 2025-09-23 08:33:49,910 log Bad Request: /api/marks/
+WARNING 2025-09-23 08:33:49,911 basehttp "POST /api/marks/ HTTP/1.1" 400 76
+INFO 2025-09-23 08:33:59,310 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 164
+INFO 2025-09-23 08:33:59,311 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-23 08:33:59,312 basehttp "GET /api/subjects/ HTTP/1.1" 200 39
+INFO 2025-09-23 08:33:59,332 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-23 08:33:59,332 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 164
+INFO 2025-09-23 08:33:59,332 basehttp "GET /api/subjects/ HTTP/1.1" 200 39
+INFO 2025-09-23 08:34:09,627 views User 'Raksha' logged in successfully.
+INFO 2025-09-23 08:34:09,628 basehttp "POST /api/login/ HTTP/1.1" 200 105
+INFO 2025-09-23 08:34:09,670 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 164
+INFO 2025-09-23 08:34:09,670 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-23 08:34:09,673 basehttp "GET /api/subjects/ HTTP/1.1" 200 39
+INFO 2025-09-23 08:34:09,689 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 164
+INFO 2025-09-23 08:34:09,692 basehttp "GET /api/subjects/ HTTP/1.1" 200 39
+INFO 2025-09-23 08:34:09,693 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-23 08:34:29,983 views User 'Karna' logged in successfully.
+INFO 2025-09-23 08:34:29,985 basehttp "POST /api/login/ HTTP/1.1" 200 104
+INFO 2025-09-23 08:34:30,008 basehttp "GET /api/student/report/ HTTP/1.1" 200 282
+INFO 2025-09-23 08:34:30,019 basehttp "GET /api/student/report/ HTTP/1.1" 200 282
+INFO 2025-09-23 08:34:38,632 views User 'varshini_rh' logged in successfully.
+INFO 2025-09-23 08:34:38,633 basehttp "POST /api/login/ HTTP/1.1" 200 108
+INFO 2025-09-23 08:34:38,673 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 08:34:38,673 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 08:34:38,677 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 08:34:38,692 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 08:34:38,692 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 08:34:38,692 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 08:35:53,797 autoreload /home/varshini_rh/grade_management_system/backend/api/views.py changed, reloading.
+INFO 2025-09-23 08:35:54,324 autoreload Watching for file changes with StatReloader
+INFO 2025-09-23 08:37:35,133 basehttp "GET /admin/api/mark/ HTTP/1.1" 200 18744
+INFO 2025-09-23 08:37:35,150 basehttp "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-09-23 08:37:35,151 basehttp "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-09-23 08:37:35,155 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-09-23 08:37:35,156 basehttp "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-09-23 08:37:35,159 basehttp "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2025-09-23 08:37:35,159 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-09-23 08:37:35,160 basehttp "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2025-09-23 08:37:35,163 basehttp "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-09-23 08:37:35,164 basehttp "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-09-23 08:37:35,167 basehttp "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-09-23 08:37:35,167 basehttp "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-09-23 08:37:35,168 basehttp "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-09-23 08:37:35,171 basehttp "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-09-23 08:37:35,173 basehttp "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2025-09-23 08:37:35,174 basehttp "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+INFO 2025-09-23 08:37:35,177 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-09-23 08:37:35,177 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-09-23 08:37:35,180 basehttp "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2025-09-23 08:37:35,213 basehttp "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-09-23 08:37:35,213 basehttp "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2025-09-23 08:37:35,214 basehttp "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2025-09-23 08:37:37,845 basehttp "GET /admin/api/subject/ HTTP/1.1" 200 12261
+INFO 2025-09-23 08:37:37,862 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-09-23 08:37:38,989 basehttp "GET /admin/api/user/ HTTP/1.1" 200 17001
+INFO 2025-09-23 08:37:39,004 basehttp "GET /static/admin/img/icon-no.svg HTTP/1.1" 304 0
+INFO 2025-09-23 08:37:39,008 basehttp "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 2025-09-23 08:37:39,010 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-09-23 08:37:39,022 basehttp "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+INFO 2025-09-23 08:37:46,064 basehttp "GET /admin/api/mark/ HTTP/1.1" 200 18744
+INFO 2025-09-23 08:37:46,081 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-09-23 08:37:47,179 basehttp "GET /admin/api/mark/15/change/ HTTP/1.1" 200 14139
+INFO 2025-09-23 08:37:47,196 basehttp "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2025-09-23 08:37:47,196 basehttp "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2025-09-23 08:37:47,199 basehttp "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2025-09-23 08:37:47,202 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-09-23 08:37:47,207 basehttp "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2025-09-23 08:37:47,207 basehttp "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2025-09-23 08:37:50,376 basehttp "GET /admin/api/subject/1/change/?_to_field=id&_popup=1 HTTP/1.1" 200 6146
+INFO 2025-09-23 08:37:50,390 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-09-23 08:38:01,979 basehttp "GET /admin/api/mark/ HTTP/1.1" 200 18744
+INFO 2025-09-23 23:42:19,339 autoreload Watching for file changes with StatReloader
+WARNING 2025-09-23 23:42:29,953 log Not Found: /
+WARNING 2025-09-23 23:42:29,955 basehttp "GET / HTTP/1.1" 404 2311
+WARNING 2025-09-23 23:42:30,659 log Not Found: /
+WARNING 2025-09-23 23:42:30,661 basehttp "GET / HTTP/1.1" 404 2311
+WARNING 2025-09-23 23:42:30,719 log Not Found: /favicon.ico
+WARNING 2025-09-23 23:42:30,720 basehttp "GET /favicon.ico HTTP/1.1" 404 2362
+INFO 2025-09-23 23:44:11,995 basehttp "OPTIONS /api/users/ HTTP/1.1" 200 0
+INFO 2025-09-23 23:44:12,004 basehttp "OPTIONS /api/subjects/ HTTP/1.1" 200 0
+INFO 2025-09-23 23:44:12,004 basehttp "OPTIONS /api/users/?role=TEACHER HTTP/1.1" 200 0
+INFO 2025-09-23 23:44:12,004 basehttp "OPTIONS /api/users/ HTTP/1.1" 200 0
+INFO 2025-09-23 23:44:12,004 basehttp "OPTIONS /api/users/?role=TEACHER HTTP/1.1" 200 0
+INFO 2025-09-23 23:44:12,004 basehttp "OPTIONS /api/subjects/ HTTP/1.1" 200 0
+INFO 2025-09-23 23:44:12,016 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 23:44:12,024 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 23:44:12,029 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 23:44:12,037 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 23:44:12,041 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 23:44:12,044 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 23:44:16,878 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 23:44:16,879 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 23:44:16,882 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 23:44:16,896 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 23:44:16,900 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 23:44:16,901 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 23:45:02,341 autoreload Watching for file changes with StatReloader
+WARNING 2025-09-23 23:45:14,549 log Not Found: /
+WARNING 2025-09-23 23:45:14,550 basehttp "GET / HTTP/1.1" 404 2311
+INFO 2025-09-23 23:45:19,232 basehttp "OPTIONS /api/login/ HTTP/1.1" 200 0
+INFO 2025-09-23 23:45:19,816 views User 'varshini_rh' logged in successfully.
+INFO 2025-09-23 23:45:19,817 basehttp "POST /api/login/ HTTP/1.1" 200 108
+INFO 2025-09-23 23:45:19,852 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 23:45:19,857 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 23:45:19,859 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 23:45:19,867 basehttp "GET /api/users/ HTTP/1.1" 200 811
+INFO 2025-09-23 23:45:19,871 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 23:45:19,875 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 354
+INFO 2025-09-23 23:46:31,488 basehttp "POST /api/users/ HTTP/1.1" 201 89
+INFO 2025-09-23 23:46:33,225 basehttp "GET /api/users/ HTTP/1.1" 200 901
+INFO 2025-09-23 23:47:04,267 basehttp "GET /api/users/ HTTP/1.1" 200 901
+INFO 2025-09-23 23:47:04,271 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 23:47:04,274 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 444
+INFO 2025-09-23 23:47:04,287 basehttp "GET /api/subjects/ HTTP/1.1" 200 154
+INFO 2025-09-23 23:47:04,290 basehttp "GET /api/users/ HTTP/1.1" 200 901
+INFO 2025-09-23 23:47:04,295 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 444
+INFO 2025-09-23 23:47:52,371 basehttp "POST /api/subjects/ HTTP/1.1" 201 42
+INFO 2025-09-23 23:47:54,952 basehttp "GET /api/subjects/ HTTP/1.1" 200 197
+INFO 2025-09-23 23:48:17,348 views User 'Chethan' logged in successfully.
+INFO 2025-09-23 23:48:17,349 basehttp "POST /api/login/ HTTP/1.1" 200 107
+INFO 2025-09-23 23:48:17,398 basehttp "OPTIONS /api/users/?role=STUDENT HTTP/1.1" 200 0
+INFO 2025-09-23 23:48:17,405 basehttp "OPTIONS /api/analytics/class/ HTTP/1.1" 200 0
+INFO 2025-09-23 23:48:17,405 basehttp "OPTIONS /api/analytics/class/ HTTP/1.1" 200 0
+INFO 2025-09-23 23:48:17,419 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-23 23:48:17,419 basehttp "GET /api/subjects/ HTTP/1.1" 200 44
+INFO 2025-09-23 23:48:17,430 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 208
+INFO 2025-09-23 23:48:17,440 basehttp "GET /api/subjects/ HTTP/1.1" 200 44
+INFO 2025-09-23 23:48:17,440 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-23 23:48:17,445 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 208
+INFO 2025-09-23 23:48:32,195 basehttp "OPTIONS /api/marks/ HTTP/1.1" 200 0
+INFO 2025-09-23 23:48:32,210 basehttp "POST /api/marks/ HTTP/1.1" 201 58
+INFO 2025-09-23 23:48:45,185 basehttp "POST /api/marks/ HTTP/1.1" 201 58
+INFO 2025-09-23 23:48:59,287 basehttp "POST /api/marks/ HTTP/1.1" 201 58
+INFO 2025-09-23 23:49:16,568 basehttp "POST /api/marks/ HTTP/1.1" 201 58
+WARNING 2025-09-23 23:49:24,728 log Bad Request: /api/marks/
+WARNING 2025-09-23 23:49:24,729 basehttp "POST /api/marks/ HTTP/1.1" 400 76
+INFO 2025-09-23 23:49:30,970 basehttp "GET /api/subjects/ HTTP/1.1" 200 44
+INFO 2025-09-23 23:49:30,970 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-23 23:49:30,971 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 209
+INFO 2025-09-23 23:49:30,993 basehttp "GET /api/subjects/ HTTP/1.1" 200 44
+INFO 2025-09-23 23:49:30,994 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-23 23:49:30,995 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 209
+INFO 2025-09-23 23:49:36,230 views User 'Karna' logged in successfully.
+INFO 2025-09-23 23:49:36,231 basehttp "POST /api/login/ HTTP/1.1" 200 104
+INFO 2025-09-23 23:49:36,248 basehttp "OPTIONS /api/student/report/ HTTP/1.1" 200 0
+INFO 2025-09-23 23:49:36,248 basehttp "OPTIONS /api/student/report/ HTTP/1.1" 200 0
+INFO 2025-09-23 23:49:36,261 basehttp "GET /api/student/report/ HTTP/1.1" 200 332
+INFO 2025-09-23 23:49:36,272 basehttp "GET /api/student/report/ HTTP/1.1" 200 332
+INFO 2025-09-23 23:49:49,741 views User 'Bhavana' logged in successfully.
+INFO 2025-09-23 23:49:49,742 basehttp "POST /api/login/ HTTP/1.1" 200 106
+INFO 2025-09-23 23:49:49,765 basehttp "GET /api/student/report/ HTTP/1.1" 200 334
+INFO 2025-09-23 23:49:49,776 basehttp "GET /api/student/report/ HTTP/1.1" 200 334
+INFO 2025-09-23 23:49:59,454 views User 'Pavan' logged in successfully.
+INFO 2025-09-23 23:49:59,455 basehttp "POST /api/login/ HTTP/1.1" 200 104
+INFO 2025-09-23 23:49:59,483 basehttp "GET /api/student/report/ HTTP/1.1" 200 332
+INFO 2025-09-23 23:49:59,492 basehttp "GET /api/student/report/ HTTP/1.1" 200 332
+INFO 2025-09-23 23:50:08,886 views User 'Ramya' logged in successfully.
+INFO 2025-09-23 23:50:08,887 basehttp "POST /api/login/ HTTP/1.1" 200 104
+INFO 2025-09-23 23:50:08,907 basehttp "GET /api/student/report/ HTTP/1.1" 200 332
+INFO 2025-09-23 23:50:08,920 basehttp "GET /api/student/report/ HTTP/1.1" 200 332
+INFO 2025-09-24 00:02:31,516 views User 'Chethan' logged in successfully.
+INFO 2025-09-24 00:02:31,517 basehttp "POST /api/login/ HTTP/1.1" 200 107
+INFO 2025-09-24 00:02:31,564 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-24 00:02:31,571 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 209
+INFO 2025-09-24 00:02:31,573 basehttp "GET /api/marks/ HTTP/1.1" 200 1172
+INFO 2025-09-24 00:02:31,573 basehttp "GET /api/subjects/ HTTP/1.1" 200 44
+INFO 2025-09-24 00:02:31,583 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-24 00:02:31,590 basehttp "GET /api/subjects/ HTTP/1.1" 200 44
+INFO 2025-09-24 00:02:31,596 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 209
+INFO 2025-09-24 00:02:31,597 basehttp "GET /api/marks/ HTTP/1.1" 200 1172
+INFO 2025-09-24 00:02:42,679 basehttp "OPTIONS /api/marks/17/ HTTP/1.1" 200 0
+INFO 2025-09-24 00:02:42,697 basehttp "PATCH /api/marks/17/ HTTP/1.1" 200 58
+INFO 2025-09-24 00:02:49,868 basehttp "GET /api/subjects/ HTTP/1.1" 200 44
+INFO 2025-09-24 00:02:49,868 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-24 00:02:49,872 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 209
+INFO 2025-09-24 00:02:49,875 basehttp "GET /api/marks/ HTTP/1.1" 200 1172
+INFO 2025-09-24 00:02:49,905 basehttp "GET /api/subjects/ HTTP/1.1" 200 44
+INFO 2025-09-24 00:02:49,912 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-24 00:02:49,915 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 209
+INFO 2025-09-24 00:02:49,916 basehttp "GET /api/marks/ HTTP/1.1" 200 1172
+INFO 2025-09-24 00:14:55,110 views User 'Chethan' logged in successfully.
+INFO 2025-09-24 00:14:55,111 basehttp "POST /api/login/ HTTP/1.1" 200 107
+INFO 2025-09-24 00:14:55,156 basehttp "GET /api/subjects/ HTTP/1.1" 200 44
+INFO 2025-09-24 00:14:55,156 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-24 00:14:55,165 basehttp "GET /api/marks/ HTTP/1.1" 200 1172
+INFO 2025-09-24 00:14:55,166 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 209
+INFO 2025-09-24 00:14:55,178 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-24 00:14:55,183 basehttp "GET /api/marks/ HTTP/1.1" 200 1172
+INFO 2025-09-24 00:14:55,183 basehttp "GET /api/subjects/ HTTP/1.1" 200 44
+INFO 2025-09-24 00:14:55,184 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 209
+INFO 2025-09-24 00:17:39,266 views User 'Chethan' logged in successfully.
+INFO 2025-09-24 00:17:39,267 basehttp "POST /api/login/ HTTP/1.1" 200 107
+INFO 2025-09-24 00:17:39,320 basehttp "GET /api/marks/ HTTP/1.1" 200 1172
+INFO 2025-09-24 00:17:39,320 basehttp "GET /api/subjects/ HTTP/1.1" 200 44
+INFO 2025-09-24 00:17:39,324 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 209
+INFO 2025-09-24 00:17:39,325 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-24 00:17:39,345 basehttp "GET /api/subjects/ HTTP/1.1" 200 44
+INFO 2025-09-24 00:17:39,348 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-24 00:17:39,349 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 209
+INFO 2025-09-24 00:17:39,350 basehttp "GET /api/marks/ HTTP/1.1" 200 1172
+INFO 2025-09-24 00:17:52,785 views User 'varshini_rh' logged in successfully.
+INFO 2025-09-24 00:17:52,786 basehttp "POST /api/login/ HTTP/1.1" 200 108
+INFO 2025-09-24 00:17:52,830 basehttp "GET /api/subjects/ HTTP/1.1" 200 197
+INFO 2025-09-24 00:17:52,832 basehttp "GET /api/users/ HTTP/1.1" 200 901
+INFO 2025-09-24 00:17:52,840 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 444
+INFO 2025-09-24 00:17:52,841 basehttp "GET /api/subjects/ HTTP/1.1" 200 197
+INFO 2025-09-24 00:17:52,854 basehttp "GET /api/users/ HTTP/1.1" 200 901
+INFO 2025-09-24 00:17:52,854 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 444
+INFO 2025-09-24 00:30:48,891 autoreload /home/varshini_rh/grade_management_system/backend/api/views.py changed, reloading.
+INFO 2025-09-24 00:30:54,983 autoreload Watching for file changes with StatReloader
+WARNING 2025-09-24 00:34:36,063 log Not Found: /
+WARNING 2025-09-24 00:34:36,065 basehttp "GET / HTTP/1.1" 404 2311
+INFO 2025-09-24 00:34:39,625 basehttp "GET /admin/ HTTP/1.1" 200 9529
+INFO 2025-09-24 00:34:39,653 basehttp "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-09-24 00:34:39,656 basehttp "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-09-24 00:34:39,659 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-09-24 00:34:39,659 basehttp "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2025-09-24 00:34:39,661 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-09-24 00:34:39,664 basehttp "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-09-24 00:34:39,665 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-09-24 00:34:39,673 basehttp "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-09-24 00:34:39,673 basehttp "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2025-09-24 00:34:41,879 basehttp "GET /admin/ HTTP/1.1" 200 9529
+INFO 2025-09-24 00:34:43,525 basehttp "GET /admin/ HTTP/1.1" 200 9529
+INFO 2025-09-24 00:34:44,108 basehttp "GET /admin/ HTTP/1.1" 200 9529
+INFO 2025-09-24 00:34:44,389 basehttp "GET /admin/ HTTP/1.1" 200 9529
+INFO 2025-09-24 00:34:44,672 basehttp "GET /admin/ HTTP/1.1" 200 9529
+INFO 2025-09-24 00:34:44,901 basehttp "GET /admin/ HTTP/1.1" 200 9529
+INFO 2025-09-24 00:34:45,125 basehttp "GET /admin/ HTTP/1.1" 200 9529
+INFO 2025-09-24 00:34:45,354 basehttp "GET /admin/ HTTP/1.1" 200 9529
+INFO 2025-09-24 00:34:45,681 basehttp "GET /admin/ HTTP/1.1" 200 9529
+INFO 2025-09-24 00:34:59,329 basehttp "GET /admin/api/mark/ HTTP/1.1" 200 20397
+INFO 2025-09-24 00:34:59,353 basehttp "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 2025-09-24 00:34:59,353 basehttp "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2025-09-24 00:34:59,354 basehttp "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 2025-09-24 00:34:59,355 basehttp "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 2025-09-24 00:34:59,355 basehttp "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 2025-09-24 00:34:59,360 basehttp "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 2025-09-24 00:34:59,360 basehttp "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 2025-09-24 00:34:59,364 basehttp "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 2025-09-24 00:34:59,365 basehttp "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 2025-09-24 00:34:59,366 basehttp "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+INFO 2025-09-24 00:34:59,372 basehttp "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 2025-09-24 00:34:59,392 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-09-24 00:34:59,406 basehttp "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2025-09-24 00:34:59,409 basehttp "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2025-09-24 00:35:02,039 basehttp "GET /admin/api/mark/20/change/ HTTP/1.1" 200 14193
+INFO 2025-09-24 00:35:02,057 basehttp "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2025-09-24 00:35:02,057 basehttp "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2025-09-24 00:35:02,062 basehttp "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2025-09-24 00:35:02,062 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-09-24 00:35:02,067 basehttp "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2025-09-24 00:35:04,832 basehttp "GET /admin/api/mark/ HTTP/1.1" 200 20397
+INFO 2025-09-24 00:35:10,112 basehttp "GET /admin/api/mark/ HTTP/1.1" 200 20397
+INFO 2025-09-24 00:35:10,130 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-09-24 00:38:36,354 views User 'varshini_rh' logged in successfully.
+INFO 2025-09-24 00:38:36,355 basehttp "POST /api/login/ HTTP/1.1" 200 108
+INFO 2025-09-24 00:38:36,399 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 444
+INFO 2025-09-24 00:38:36,402 basehttp "GET /api/subjects/ HTTP/1.1" 200 197
+INFO 2025-09-24 00:38:36,407 basehttp "GET /api/users/ HTTP/1.1" 200 901
+INFO 2025-09-24 00:38:36,420 basehttp "GET /api/subjects/ HTTP/1.1" 200 197
+INFO 2025-09-24 00:38:36,420 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 444
+INFO 2025-09-24 00:38:36,426 basehttp "GET /api/users/ HTTP/1.1" 200 901
+INFO 2025-09-24 00:38:55,496 autoreload Watching for file changes with StatReloader
+INFO 2025-09-24 00:39:06,721 autoreload Watching for file changes with StatReloader
+INFO 2025-09-24 00:39:14,109 views User 'varshini_rh' logged in successfully.
+INFO 2025-09-24 00:39:14,110 basehttp "POST /api/login/ HTTP/1.1" 200 108
+INFO 2025-09-24 00:39:14,155 basehttp "GET /api/subjects/ HTTP/1.1" 200 197
+INFO 2025-09-24 00:39:14,159 basehttp "GET /api/users/ HTTP/1.1" 200 901
+INFO 2025-09-24 00:39:14,165 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 444
+INFO 2025-09-24 00:39:14,172 basehttp "GET /api/subjects/ HTTP/1.1" 200 197
+INFO 2025-09-24 00:39:14,175 basehttp "GET /api/users/ HTTP/1.1" 200 901
+INFO 2025-09-24 00:39:14,180 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 444
+INFO 2025-09-24 00:39:28,861 views User 'Devika' logged in successfully.
+INFO 2025-09-24 00:39:28,862 basehttp "POST /api/login/ HTTP/1.1" 200 105
+INFO 2025-09-24 00:39:28,907 basehttp "GET /api/subjects/ HTTP/1.1" 200 39
+INFO 2025-09-24 00:39:28,908 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 209
+INFO 2025-09-24 00:39:28,914 basehttp "GET /api/marks/ HTTP/1.1" 200 1172
+INFO 2025-09-24 00:39:28,918 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-24 00:39:28,924 basehttp "GET /api/subjects/ HTTP/1.1" 200 39
+INFO 2025-09-24 00:39:28,931 basehttp "GET /api/marks/ HTTP/1.1" 200 1172
+INFO 2025-09-24 00:39:28,932 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 209
+INFO 2025-09-24 00:39:28,937 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-24 00:45:27,053 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-24 00:45:27,057 basehttp "GET /api/subjects/ HTTP/1.1" 200 39
+INFO 2025-09-24 00:45:27,060 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 209
+INFO 2025-09-24 00:45:27,061 basehttp "GET /api/marks/ HTTP/1.1" 200 1172
+INFO 2025-09-24 00:45:27,077 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 209
+INFO 2025-09-24 00:45:27,079 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-24 00:45:27,081 basehttp "GET /api/subjects/ HTTP/1.1" 200 39
+INFO 2025-09-24 00:45:27,082 basehttp "GET /api/marks/ HTTP/1.1" 200 1172
+INFO 2025-09-24 00:49:05,979 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-24 00:49:05,983 basehttp "GET /api/marks/ HTTP/1.1" 200 1172
+INFO 2025-09-24 00:49:05,992 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 209
+INFO 2025-09-24 00:49:05,993 basehttp "GET /api/subjects/ HTTP/1.1" 200 39
+INFO 2025-09-24 00:49:06,007 basehttp "GET /api/users/?role=STUDENT HTTP/1.1" 200 351
+INFO 2025-09-24 00:49:06,015 basehttp "GET /api/subjects/ HTTP/1.1" 200 39
+INFO 2025-09-24 00:49:06,015 basehttp "GET /api/analytics/class/ HTTP/1.1" 200 209
+INFO 2025-09-24 00:49:06,016 basehttp "GET /api/marks/ HTTP/1.1" 200 1172
+INFO 2025-09-24 00:49:14,076 views User 'varshini_rh' logged in successfully.
+INFO 2025-09-24 00:49:14,077 basehttp "POST /api/login/ HTTP/1.1" 200 108
+INFO 2025-09-24 00:49:14,125 basehttp "GET /api/subjects/ HTTP/1.1" 200 197
+INFO 2025-09-24 00:49:14,127 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 444
+INFO 2025-09-24 00:49:14,132 basehttp "GET /api/users/ HTTP/1.1" 200 901
+INFO 2025-09-24 00:49:14,139 basehttp "GET /api/subjects/ HTTP/1.1" 200 197
+INFO 2025-09-24 00:49:14,148 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 444
+INFO 2025-09-24 00:49:14,148 basehttp "GET /api/users/ HTTP/1.1" 200 901
+INFO 2025-09-24 00:49:43,245 views User 'varshini_rh' logged in successfully.
+INFO 2025-09-24 00:49:43,247 basehttp "POST /api/login/ HTTP/1.1" 200 108
+INFO 2025-09-24 00:49:43,284 basehttp "GET /api/subjects/ HTTP/1.1" 200 197
+INFO 2025-09-24 00:49:43,286 basehttp "GET /api/users/ HTTP/1.1" 200 901
+INFO 2025-09-24 00:49:43,287 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 444
+INFO 2025-09-24 00:49:43,300 basehttp "GET /api/subjects/ HTTP/1.1" 200 197
+INFO 2025-09-24 00:49:43,305 basehttp "GET /api/users/ HTTP/1.1" 200 901
+INFO 2025-09-24 00:49:43,305 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 444
+INFO 2025-09-24 00:49:47,264 basehttp "GET /api/subjects/ HTTP/1.1" 200 197
+INFO 2025-09-24 00:49:47,267 basehttp "GET /api/users/ HTTP/1.1" 200 901
+INFO 2025-09-24 00:49:47,272 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 444
+INFO 2025-09-24 00:49:47,284 basehttp "GET /api/subjects/ HTTP/1.1" 200 197
+INFO 2025-09-24 00:49:47,285 basehttp "GET /api/users/ HTTP/1.1" 200 901
+INFO 2025-09-24 00:49:47,290 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 444
+INFO 2025-09-24 00:49:52,630 basehttp "GET /api/subjects/ HTTP/1.1" 200 197
+INFO 2025-09-24 00:49:52,633 basehttp "GET /api/users/ HTTP/1.1" 200 901
+INFO 2025-09-24 00:49:52,643 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 444
+INFO 2025-09-24 00:49:52,651 basehttp "GET /api/subjects/ HTTP/1.1" 200 197
+INFO 2025-09-24 00:49:52,663 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 444
+INFO 2025-09-24 00:49:52,663 basehttp "GET /api/users/ HTTP/1.1" 200 901
+INFO 2025-09-24 00:57:11,436 basehttp "GET /api/users/ HTTP/1.1" 200 901
+INFO 2025-09-24 00:57:11,438 basehttp "GET /api/subjects/ HTTP/1.1" 200 197
+INFO 2025-09-24 00:57:11,439 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 444
+INFO 2025-09-24 00:57:11,455 basehttp "GET /api/users/ HTTP/1.1" 200 901
+INFO 2025-09-24 00:57:11,460 basehttp "GET /api/subjects/ HTTP/1.1" 200 197
+INFO 2025-09-24 00:57:11,461 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 444
+INFO 2025-09-24 01:03:08,357 basehttp "GET /admin/ HTTP/1.1" 200 9529
+INFO 2025-09-24 01:06:41,141 views User 'varshini_rh' logged in successfully.
+INFO 2025-09-24 01:06:41,143 basehttp "POST /api/login/ HTTP/1.1" 200 108
+INFO 2025-09-24 01:06:41,197 basehttp "GET /api/users/ HTTP/1.1" 200 901
+INFO 2025-09-24 01:06:41,200 basehttp "GET /api/subjects/ HTTP/1.1" 200 197
+INFO 2025-09-24 01:06:41,204 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 444
+INFO 2025-09-24 01:06:41,220 basehttp "GET /api/subjects/ HTTP/1.1" 200 197
+INFO 2025-09-24 01:06:41,222 basehttp "GET /api/users/ HTTP/1.1" 200 901
+INFO 2025-09-24 01:06:41,223 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 444
+INFO 2025-09-24 01:32:59,403 basehttp "GET /admin/api/mark/15/change/ HTTP/1.1" 302 0
+INFO 2025-09-24 01:32:59,574 basehttp "GET /admin/login/?next=/admin/api/mark/15/change/ HTTP/1.1" 200 4216
+INFO 2025-09-24 01:32:59,691 basehttp "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+INFO 2025-09-24 01:32:59,714 basehttp "GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+INFO 2025-09-24 01:32:59,715 basehttp "GET /static/admin/css/base.css HTTP/1.1" 200 22120
+INFO 2025-09-24 01:32:59,746 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+INFO 2025-09-24 01:32:59,747 basehttp "GET /static/admin/css/login.css HTTP/1.1" 200 951
+INFO 2025-09-24 01:32:59,756 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+INFO 2025-09-24 01:32:59,845 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+WARNING 2025-09-24 01:32:59,921 log Not Found: /favicon.ico
+WARNING 2025-09-24 01:32:59,923 basehttp "GET /favicon.ico HTTP/1.1" 404 2362
+WARNING 2025-09-24 01:33:01,927 log Not Found: /
+WARNING 2025-09-24 01:33:01,928 basehttp "GET / HTTP/1.1" 404 2311
+INFO 2025-09-24 01:54:40,971 basehttp "OPTIONS /api/users/ HTTP/1.1" 200 0
+INFO 2025-09-24 01:54:40,975 basehttp "OPTIONS /api/subjects/ HTTP/1.1" 200 0
+INFO 2025-09-24 01:54:40,980 basehttp "OPTIONS /api/users/ HTTP/1.1" 200 0
+INFO 2025-09-24 01:54:40,984 basehttp "OPTIONS /api/users/?role=TEACHER HTTP/1.1" 200 0
+INFO 2025-09-24 01:54:40,984 basehttp "OPTIONS /api/subjects/ HTTP/1.1" 200 0
+INFO 2025-09-24 01:54:40,988 basehttp "OPTIONS /api/users/?role=TEACHER HTTP/1.1" 200 0
+INFO 2025-09-24 01:54:40,999 basehttp "GET /api/subjects/ HTTP/1.1" 200 197
+INFO 2025-09-24 01:54:41,003 basehttp "GET /api/users/ HTTP/1.1" 200 901
+INFO 2025-09-24 01:54:41,012 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 444
+INFO 2025-09-24 01:54:41,025 basehttp "GET /api/subjects/ HTTP/1.1" 200 197
+INFO 2025-09-24 01:54:41,027 basehttp "GET /api/users/ HTTP/1.1" 200 901
+INFO 2025-09-24 01:54:41,035 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 444
+INFO 2025-09-24 01:54:45,449 basehttp "OPTIONS /api/login/ HTTP/1.1" 200 0
+INFO 2025-09-24 01:54:46,028 views User 'varshini_rh' logged in successfully.
+INFO 2025-09-24 01:54:46,029 basehttp "POST /api/login/ HTTP/1.1" 200 108
+INFO 2025-09-24 01:54:46,069 basehttp "GET /api/users/ HTTP/1.1" 200 901
+INFO 2025-09-24 01:54:46,069 basehttp "GET /api/subjects/ HTTP/1.1" 200 197
+INFO 2025-09-24 01:54:46,073 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 444
+INFO 2025-09-24 01:54:46,089 basehttp "GET /api/users/ HTTP/1.1" 200 901
+INFO 2025-09-24 01:54:46,091 basehttp "GET /api/subjects/ HTTP/1.1" 200 197
+INFO 2025-09-24 01:54:46,092 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 444
+INFO 2025-09-24 04:45:51,138 autoreload /home/varshini_rh/grade_management_system/backend/api/views.py changed, reloading.
+INFO 2025-09-24 04:45:55,027 autoreload Watching for file changes with StatReloader
+INFO 2025-09-24 04:46:37,270 autoreload /home/varshini_rh/grade_management_system/backend/api/views.py changed, reloading.
+INFO 2025-09-24 04:46:37,821 autoreload Watching for file changes with StatReloader
+INFO 2025-09-24 15:19:33,909 autoreload Watching for file changes with StatReloader
+INFO 2025-09-24 04:50:00,217 autoreload /home/varshini_rh/grade_management_system/backend/api/views.py changed, reloading.
+INFO 2025-09-24 04:50:00,828 autoreload Watching for file changes with StatReloader
+INFO 2025-09-24 04:56:20,882 autoreload Watching for file changes with StatReloader
+WARNING 2025-09-24 04:56:31,755 log Not Found: /
+WARNING 2025-09-24 04:56:31,757 basehttp "GET / HTTP/1.1" 404 2311
+INFO 2025-09-24 04:56:37,559 autoreload /home/varshini_rh/grade_management_system/backend/api/views.py changed, reloading.
+INFO 2025-09-24 04:56:38,130 autoreload Watching for file changes with StatReloader
+INFO 2025-09-24 04:57:24,808 autoreload Watching for file changes with StatReloader
+INFO 2025-09-24 05:02:43,533 autoreload Watching for file changes with StatReloader
+INFO 2025-09-24 05:10:32,000 autoreload Watching for file changes with StatReloader
+INFO 2025-09-24 05:12:29,000 autoreload Watching for file changes with StatReloader
+INFO 2025-09-24 05:14:13,834 basehttp "OPTIONS /api/login/ HTTP/1.1" 200 0
+INFO 2025-09-24 05:14:14,452 views User 'varshini_rh' logged in successfully.
+INFO 2025-09-24 05:14:14,453 basehttp "POST /api/login/ HTTP/1.1" 200 108
+INFO 2025-09-24 05:14:14,514 basehttp "OPTIONS /api/users/ HTTP/1.1" 200 0
+INFO 2025-09-24 05:14:14,521 basehttp "OPTIONS /api/subjects/ HTTP/1.1" 200 0
+INFO 2025-09-24 05:14:14,523 basehttp "OPTIONS /api/users/ HTTP/1.1" 200 0
+INFO 2025-09-24 05:14:14,524 basehttp "OPTIONS /api/subjects/ HTTP/1.1" 200 0
+INFO 2025-09-24 05:14:14,530 basehttp "OPTIONS /api/users/?role=TEACHER HTTP/1.1" 200 0
+INFO 2025-09-24 05:14:14,531 basehttp "OPTIONS /api/users/?role=TEACHER HTTP/1.1" 200 0
+INFO 2025-09-24 05:14:14,539 basehttp "GET /api/subjects/ HTTP/1.1" 200 197
+INFO 2025-09-24 05:14:14,543 basehttp "GET /api/users/ HTTP/1.1" 200 901
+INFO 2025-09-24 05:14:14,551 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 444
+INFO 2025-09-24 05:14:14,561 basehttp "GET /api/subjects/ HTTP/1.1" 200 197
+INFO 2025-09-24 05:14:14,563 basehttp "GET /api/users/ HTTP/1.1" 200 901
+INFO 2025-09-24 05:14:14,566 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 444
+INFO 2025-09-24 05:14:23,929 basehttp "GET /api/users/ HTTP/1.1" 200 901
+INFO 2025-09-24 05:14:23,935 basehttp "GET /api/subjects/ HTTP/1.1" 200 197
+INFO 2025-09-24 05:14:23,938 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 444
+INFO 2025-09-24 05:14:23,968 basehttp "GET /api/users/ HTTP/1.1" 200 901
+INFO 2025-09-24 05:14:23,974 basehttp "GET /api/subjects/ HTTP/1.1" 200 197
+INFO 2025-09-24 05:14:23,985 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 444
+INFO 2025-09-24 05:14:30,552 views User 'varshini_rh' logged in successfully.
+INFO 2025-09-24 05:14:30,553 basehttp "POST /api/login/ HTTP/1.1" 200 108
+INFO 2025-09-24 05:14:30,618 basehttp "GET /api/subjects/ HTTP/1.1" 200 197
+INFO 2025-09-24 05:14:30,627 basehttp "GET /api/users/ HTTP/1.1" 200 901
+INFO 2025-09-24 05:14:30,634 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 444
+INFO 2025-09-24 05:14:30,643 basehttp "GET /api/subjects/ HTTP/1.1" 200 197
+INFO 2025-09-24 05:14:30,644 basehttp "GET /api/users/ HTTP/1.1" 200 901
+INFO 2025-09-24 05:14:30,648 basehttp "GET /api/users/?role=TEACHER HTTP/1.1" 200 444
+INFO 2025-09-24 05:21:52,151 autoreload Watching for file changes with StatReloader
+INFO 2025-09-24 05:21:58,079 autoreload /home/varshini_rh/grade_management_system/backend/api/views.py changed, reloading.
+INFO 2025-09-24 05:21:58,616 autoreload Watching for file changes with StatReloader
+INFO 2025-09-24 05:23:40,845 autoreload /home/varshini_rh/grade_management_system/backend/api/views.py changed, reloading.
+INFO 2025-09-24 05:23:41,420 autoreload Watching for file changes with StatReloader
+INFO 2025-09-24 05:23:47,208 views User 'Karna' logged in successfully.
+INFO 2025-09-24 05:23:47,210 basehttp "POST /api/login/ HTTP/1.1" 200 104
+INFO 2025-09-24 05:23:47,230 basehttp "OPTIONS /api/student/report/ HTTP/1.1" 200 0
+INFO 2025-09-24 05:23:47,232 basehttp "OPTIONS /api/student/report/ HTTP/1.1" 200 0
+INFO 2025-09-24 05:23:47,253 basehttp "GET /api/student/report/ HTTP/1.1" 200 332
+INFO 2025-09-24 05:23:47,262 basehttp "GET /api/student/report/ HTTP/1.1" 200 332
+INFO 2025-09-24 05:23:49,695 basehttp "OPTIONS /api/student/report/download/ HTTP/1.1" 200 0
+ERROR 2025-09-24 05:23:49,852 log Internal Server Error: /api/student/report/download/
+Traceback (most recent call last):
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/django/views/generic/base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/varshini_rh/grade_management_system/backend/api/views.py", line 136, in get
+    pdf_file = HTML(string=html_string).write_pdf()
+NameError: name 'HTML' is not defined
+ERROR 2025-09-24 05:23:49,870 basehttp "GET /api/student/report/download/ HTTP/1.1" 500 97520
+INFO 2025-09-24 05:37:48,687 autoreload Watching for file changes with StatReloader
+INFO 2025-09-24 05:37:55,137 basehttp "GET /api/student/report/ HTTP/1.1" 200 332
+INFO 2025-09-24 05:37:55,146 basehttp "GET /api/student/report/ HTTP/1.1" 200 332
+ERROR 2025-09-24 05:37:56,692 log Internal Server Error: /api/student/report/download/
+Traceback (most recent call last):
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/django/views/generic/base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/varshini_rh/grade_management_system/backend/api/views.py", line 126, in get
+    html_string = render_to_string('report_template.html', {'user': request.user, 'marks': marks})
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: report_template.html
+ERROR 2025-09-24 05:37:56,701 basehttp "GET /api/student/report/download/ HTTP/1.1" 500 102887
+INFO 2025-09-24 05:39:41,703 autoreload /home/varshini_rh/grade_management_system/backend/api/urls.py changed, reloading.
+INFO 2025-09-24 05:39:42,231 autoreload Watching for file changes with StatReloader
+INFO 2025-09-24 05:47:37,519 autoreload /home/varshini_rh/grade_management_system/backend/api/views.py changed, reloading.
+INFO 2025-09-24 05:47:38,093 autoreload Watching for file changes with StatReloader
+INFO 2025-09-24 05:49:14,249 autoreload Watching for file changes with StatReloader
+INFO 2025-09-24 05:51:02,023 autoreload Watching for file changes with StatReloader
+WARNING 2025-09-24 05:51:14,625 log Not Found: /
+WARNING 2025-09-24 05:51:14,626 basehttp "GET / HTTP/1.1" 404 2311
+ERROR 2025-09-24 05:51:17,477 log Internal Server Error: /api/student/report/download/
+Traceback (most recent call last):
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/django/views/generic/base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/varshini_rh/grade_management_system/backend/api/views.py", line 172, in get
+    html_string = render_to_string('grade_report.html', {'user': request.user, 'marks': marks})
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: grade_report.html
+ERROR 2025-09-24 05:51:17,483 basehttp "GET /api/student/report/download/ HTTP/1.1" 500 102902
+INFO 2025-09-24 05:51:20,986 basehttp "GET /api/student/report/ HTTP/1.1" 200 332
+INFO 2025-09-24 05:51:21,001 basehttp "GET /api/student/report/ HTTP/1.1" 200 332
+ERROR 2025-09-24 05:51:23,402 log Internal Server Error: /api/student/report/download/
+Traceback (most recent call last):
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/django/views/generic/base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/varshini_rh/grade_management_system/backend/api/views.py", line 172, in get
+    html_string = render_to_string('grade_report.html', {'user': request.user, 'marks': marks})
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "/home/varshini_rh/grade_management_system/backend/venv/lib/python3.10/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: grade_report.html
+ERROR 2025-09-24 05:51:23,411 basehttp "GET /api/student/report/download/ HTTP/1.1" 500 102902
+INFO 2025-09-24 05:54:06,859 autoreload /home/varshini_rh/grade_management_system/backend/grade_project/settings.py changed, reloading.
+INFO 2025-09-24 06:07:34,017 autoreload 25506 140411521732608 [django.utils.autoreload:run_with_reloader:667] Watching for file changes with StatReloader
+INFO 2025-09-24 06:09:05,747 autoreload 25514 140300665098240 [django.utils.autoreload:run_with_reloader:667] Watching for file changes with StatReloader
+INFO 2025-09-24 06:11:37,494 autoreload 25527 140670974955520 [django.utils.autoreload:run_with_reloader:667] Watching for file changes with StatReloader
+INFO 2025-09-24 06:14:26,265 autoreload 25543 140159690543104 [django.utils.autoreload:run_with_reloader:667] Watching for file changes with StatReloader
+INFO 2025-09-24 06:19:57,973 autoreload 25728 139954495033344 [django.utils.autoreload:run_with_reloader:667] Watching for file changes with StatReloader
+WARNING 2025-09-24 06:20:06,947 log 25728 139954415339072 [django.request:log_response:253] Not Found: /
+WARNING 2025-09-24 06:20:06,948 basehttp 25728 139954415339072 [django.server:log_message:213] "GET / HTTP/1.1" 404 2311
+INFO 2025-09-24 06:20:09,437 basehttp 25728 139954415339072 [django.server:log_message:213] "GET /admin/ HTTP/1.1" 200 9529
+INFO 2025-09-24 06:20:09,461 basehttp 25728 139954406884928 [django.server:log_message:213] "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 2025-09-24 06:20:09,462 basehttp 25728 139954415339072 [django.server:log_message:213] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 2025-09-24 06:20:09,464 basehttp 25728 139954193630784 [django.server:log_message:213] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2025-09-24 06:20:09,465 basehttp 25728 139954185176640 [django.server:log_message:213] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 2025-09-24 06:20:09,466 basehttp 25728 139954176722496 [django.server:log_message:213] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2025-09-24 06:20:09,466 basehttp 25728 139954168268352 [django.server:log_message:213] "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 2025-09-24 06:20:09,470 basehttp 25728 139954168268352 [django.server:log_message:213] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2025-09-24 06:20:09,477 basehttp 25728 139954176722496 [django.server:log_message:213] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2025-09-24 06:20:09,477 basehttp 25728 139954168268352 [django.server:log_message:213] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO 2025-09-24 06:20:12,820 views 25728 139954159814208 [api:post:36] User 'Karna' logged in successfully.
+INFO 2025-09-24 06:20:12,821 basehttp 25728 139954159814208 [django.server:log_message:213] "POST /api/login/ HTTP/1.1" 200 104
+INFO 2025-09-24 06:20:12,856 basehttp 25728 139954159814208 [django.server:log_message:213] "GET /api/student/report/ HTTP/1.1" 200 332
+INFO 2025-09-24 06:20:12,865 basehttp 25728 139954159814208 [django.server:log_message:213] "GET /api/student/report/ HTTP/1.1" 200 332
+INFO 2025-09-24 06:20:16,869 basehttp 25728 139954159814208 [django.server:log_message:213] "GET /api/student/report/ HTTP/1.1" 200 332
+INFO 2025-09-24 06:20:16,884 basehttp 25728 139954159814208 [django.server:log_message:213] "GET /api/student/report/ HTTP/1.1" 200 332
+INFO 2025-09-24 06:20:19,278 basehttp 25728 139954159814208 [django.server:log_message:213] "GET /api/student/report/download/ HTTP/1.1" 200 8895
+INFO 2025-09-24 06:20:54,837 views 25728 139954159814208 [api:post:36] User 'Karna' logged in successfully.
+INFO 2025-09-24 06:20:54,838 basehttp 25728 139954159814208 [django.server:log_message:213] "POST /api/login/ HTTP/1.1" 200 104
+INFO 2025-09-24 06:20:54,866 basehttp 25728 139954159814208 [django.server:log_message:213] "GET /api/student/report/ HTTP/1.1" 200 332
+INFO 2025-09-24 06:20:54,874 basehttp 25728 139954159814208 [django.server:log_message:213] "GET /api/student/report/ HTTP/1.1" 200 332
+INFO 2025-09-24 06:23:37,271 autoreload 25998 140239157268480 [django.utils.autoreload:run_with_reloader:667] Watching for file changes with StatReloader
+INFO 2025-09-24 06:31:38,289 autoreload 26354 140514819969024 [django.utils.autoreload:run_with_reloader:667] Watching for file changes with StatReloader
+INFO 2025-09-24 06:42:25,101 autoreload 26472 140390172790784 [django.utils.autoreload:run_with_reloader:667] Watching for file changes with StatReloader
+INFO 2025-09-24 06:49:44,181 autoreload 273 140233627734016 [django.utils.autoreload:run_with_reloader:667] Watching for file changes with StatReloader
+WARNING 2025-09-24 06:50:00,029 log 273 140233481258560 [django.request:log_response:253] Not Found: /
+WARNING 2025-09-24 06:50:00,030 basehttp 273 140233481258560 [django.server:log_message:213] "GET / HTTP/1.1" 404 2311
+WARNING 2025-09-24 06:50:00,698 log 273 140233481258560 [django.request:log_response:253] Not Found: /
+WARNING 2025-09-24 06:50:00,700 basehttp 273 140233481258560 [django.server:log_message:213] "GET / HTTP/1.1" 404 2311
+WARNING 2025-09-24 06:50:00,766 log 273 140233481258560 [django.request:log_response:253] Not Found: /favicon.ico
+WARNING 2025-09-24 06:50:00,767 basehttp 273 140233481258560 [django.server:log_message:213] "GET /favicon.ico HTTP/1.1" 404 2362
+INFO 2025-09-24 06:51:24,672 basehttp 273 140233472804416 [django.server:log_message:213] "OPTIONS /api/student/report/ HTTP/1.1" 200 0
+INFO 2025-09-24 06:51:24,672 basehttp 273 140233464350272 [django.server:log_message:213] "OPTIONS /api/student/report/ HTTP/1.1" 200 0
+INFO 2025-09-24 06:51:24,689 basehttp 273 140233464350272 [django.server:log_message:213] "GET /api/student/report/ HTTP/1.1" 200 332
+INFO 2025-09-24 06:51:24,703 basehttp 273 140233464350272 [django.server:log_message:213] "GET /api/student/report/ HTTP/1.1" 200 332
+INFO 2025-09-24 06:51:29,715 basehttp 273 140233464350272 [django.server:log_message:213] "GET /api/student/report/ HTTP/1.1" 200 332
+INFO 2025-09-24 06:51:29,723 basehttp 273 140233464350272 [django.server:log_message:213] "GET /api/student/report/ HTTP/1.1" 200 332
+INFO 2025-09-24 07:09:16,628 autoreload 8948 140112280293376 [django.utils.autoreload:run_with_reloader:667] Watching for file changes with StatReloader

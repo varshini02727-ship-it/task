@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Grade Report</title>
+    <style>
+        body { font-family: sans-serif; margin: 40px; }
+        .header { text-align: center; margin-bottom: 40px; }
+        .header h1 { margin: 0; }
+        .header p { margin: 5px 0; color: #555; }
+        table { width: 100%; border-collapse: collapse; margin-bottom: 30px; }
+        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        .summary {
+            width: 50%;
+            margin-left: 50%;
+            border: 1px solid #ddd;
+            padding: 15px;
+        }
+        .summary p {
+            display: flex;
+            justify-content: space-between;
+            margin: 10px 0;
+        }
+        .summary p strong {
+            margin-right: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Grade Report</h1>
+        <p><strong>Student:</strong> {{ student_name }}</p>
+    </div>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Subject</th>
+                <th>Score</th>
+                <th>Grade</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for mark in marks %}
+            <tr>
+                <td>{{ mark.subject }}</td>
+                <td>{{ mark.score }}</td>
+                <td>{{ mark.grade }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    <div class="summary">
+        <p><strong>Total Score:</strong> <span>{{ total_score }}</span></p>
+        <p><strong>Overall Percentage:</strong> <span>{{ percentage }}%</span></p>
+        <p><strong>Overall Grade:</strong> <span>{{ overall_grade }}</span></p>
+    </div>
+</body>
+</html>
